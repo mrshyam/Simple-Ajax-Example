@@ -1,4 +1,4 @@
-# STS-Projects
+# Simple Ajax Example
  * Created by PhpStorm.
  * User: MrShyAm
  * Date: 3/20/2017
@@ -13,7 +13,7 @@
 # Contact
  * For any query contact me at.
  *Email: mrshyam.in@gmail.com
- *Phone: +919671666865
+ *Phone: +919671682299
  
  *Thanx and Regards*
  *Mr. ShyAm*
